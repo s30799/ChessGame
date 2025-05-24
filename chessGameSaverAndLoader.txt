@@ -1,0 +1,9 @@
+Czarna_wieza Bialy_skoczek Czarny_skoczek Czarna_krolowa Czarny_krol Czarny_skoczek Czarny_kon Czarna_wieza 
+Czarny_pionek Czarny_pionek empty Czarny_pionek Czarny_pionek Czarny_pionek Czarny_pionek Czarny_pionek 
+empty empty empty empty empty empty empty empty 
+empty empty empty empty empty empty empty empty 
+empty empty Bialy_pionek empty empty empty empty empty 
+empty empty empty Czarny_pionek empty empty empty empty 
+Bialy_pionek Bialy_pionek empty empty Bialy_pionek Bialy_pionek Bialy_pionek Bialy_pionek 
+Biala_wieza Bialy_kon empty Biala_krolowa Bialy_krol Bialy_skoczek Bialy_kon Biala_wieza 
+Black
